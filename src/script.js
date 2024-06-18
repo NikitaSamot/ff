@@ -7,3 +7,8 @@ function goodbuy (arg1, arg2) {
     console.log('goodbuy', arg1, arg2);
 
 }
+
+function thanks (arg1, arg2) {
+    console.log('goodbuy', arg1, arg2);
+
+}
