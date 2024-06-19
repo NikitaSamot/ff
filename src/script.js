@@ -12,3 +12,10 @@ function thanks (arg1, arg2) {
     console.log('goodbuy', arg1, arg2);
 
 }
+
+function thankstwo (arg1, arg2) {
+    console.log('goodbuy', arg1, arg2);
+    console.log(
+    'Thanks for contacting'
+);
+}
